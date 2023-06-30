@@ -107,8 +107,8 @@ body{
         height: 200px;
         border-radius: 50%;
     }
-    .heroes-txt {
-        width: 100%;
+    .heroes .heroes-txt {
+        width: 90%;
     }
 
 }
